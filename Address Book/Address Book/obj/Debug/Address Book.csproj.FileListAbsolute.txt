@@ -1,0 +1,10 @@
+C:\Users\emmte\source\repos\Address Book\Address Book\bin\Debug\Address Book.exe.config
+C:\Users\emmte\source\repos\Address Book\Address Book\bin\Debug\Address Book.exe
+C:\Users\emmte\source\repos\Address Book\Address Book\bin\Debug\Address Book.pdb
+C:\Users\emmte\source\repos\Address Book\Address Book\obj\Debug\Address Book.csproj.AssemblyReference.cache
+C:\Users\emmte\source\repos\Address Book\Address Book\obj\Debug\Address_Book.Form1.resources
+C:\Users\emmte\source\repos\Address Book\Address Book\obj\Debug\Address_Book.Properties.Resources.resources
+C:\Users\emmte\source\repos\Address Book\Address Book\obj\Debug\Address Book.csproj.GenerateResource.cache
+C:\Users\emmte\source\repos\Address Book\Address Book\obj\Debug\Address Book.csproj.CoreCompileInputs.cache
+C:\Users\emmte\source\repos\Address Book\Address Book\obj\Debug\Address Book.exe
+C:\Users\emmte\source\repos\Address Book\Address Book\obj\Debug\Address Book.pdb
