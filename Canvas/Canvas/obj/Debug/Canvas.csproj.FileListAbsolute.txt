@@ -1,0 +1,10 @@
+C:\Users\emmte\source\repos\Canvas\Canvas\obj\Debug\Canvas.csproj.AssemblyReference.cache
+C:\Users\emmte\source\repos\Canvas\Canvas\obj\Debug\Canvas.Form1.resources
+C:\Users\emmte\source\repos\Canvas\Canvas\obj\Debug\Canvas.Properties.Resources.resources
+C:\Users\emmte\source\repos\Canvas\Canvas\obj\Debug\Canvas.csproj.GenerateResource.cache
+C:\Users\emmte\source\repos\Canvas\Canvas\obj\Debug\Canvas.csproj.CoreCompileInputs.cache
+C:\Users\emmte\source\repos\Canvas\Canvas\bin\Debug\Canvas.exe.config
+C:\Users\emmte\source\repos\Canvas\Canvas\bin\Debug\Canvas.exe
+C:\Users\emmte\source\repos\Canvas\Canvas\bin\Debug\Canvas.pdb
+C:\Users\emmte\source\repos\Canvas\Canvas\obj\Debug\Canvas.exe
+C:\Users\emmte\source\repos\Canvas\Canvas\obj\Debug\Canvas.pdb
